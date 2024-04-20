@@ -1,0 +1,9 @@
+{
+    "@@locale": "en",
+    "appName": "RRHH Management",
+    "helloWorld": "Hello World!",
+    "login_label": "Login",
+    "label_username" : "Username",
+    "label_password" : "Password"
+
+}

@@ -1,0 +1,8 @@
+{
+    "@@locale": "es",
+    "appName": "Administración RRHH",
+    "helloWorld": "¡Hola Mundo!",
+    "login_label": "Ingresar",
+    "label_username" : "Nombre de Usuario",
+    "label_password" : "Contraseña"
+}
